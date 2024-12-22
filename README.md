@@ -12,7 +12,7 @@ https://universe.roboflow.com/ai-project-i3wje/waste-detection-vqkjo/model/3
 
 *Clone the Repository:*
 git clone https://github.com/Cherifa3/TSYP12-INSAT-ECOBOT.git
-cd .\AI\detection_interface\waste-detection 
+cd .\AI\waste-detection 
 *Install Dependencies:*
 pip install -r requirements.txt
 *Run the Application*
