@@ -1,11 +1,10 @@
 # TSYP12-INSAT-ECOBOT
 
 # Intelligent waste detection system
-This project demonstrates waste detection using a YOLOv8 (You Only Look Once) object detection model. It identifies recyclable, non-recyclable, and hazardous waste items in a webcam stream.
+This part demonstrates waste detection using a YOLOv8 (You Only Look Once) object detection model. It identifies recyclable and non-recyclable  items in a webcam stream (the interface just to demonstrate our model).
 
 the original dataset:
-https://universe.roboflow.com/ai-project-i3wje/waste-detection-vqkjo/model/3
-
+taco-trash-dataset
 
 # to use the interface 
 ## Setup
@@ -33,8 +32,8 @@ Open your web browser and navigate to the provided URL (usually http://localhost
 -**NON_RECYCLABLE** = ["Battery", "Carded blister pack", "Other plastic bottle", "Plastic bottle cap", "Broken glass", "Other carton", "Meal carton", "Disposable plastic cup", "Foam cup", "Glass cup", "Other plastic cup", "Food waste", "Plastic lid", "Metal lid", "Other plastic", "Tissues", "Wrapping paper", "Plastified paper bag", "Plastic film", "Six pack rings", "Garbage bag", "Other plastic wrapper", "Single-use carrier bag", "Polypropylene bag", "Crisp packet", "Spread tub", "Tupperware", "Disposable food container", "Foam food container", "Other plastic container", "Plastic gloves", "Plastic utensils", "Rope & strings", "Shoe", "Squeezable tube", "Plastic straw", "Paper straw", "Styrofoam piece", "Unlabeled litter", "Cigarette"]
 
 ## Screenshots
-
-![screenshot2](screenshot2.png)
+![alt text](<Capture d'écran 2024-12-22 221832.png>)
+![alt text](<Capture d'écran 2024-12-22 221802-1.png>)
 
 ## References
 
