@@ -3,14 +3,9 @@
 # Intelligent waste detection system
 This project demonstrates waste detection using a YOLOv8 (You Only Look Once) object detection model. It identifies recyclable, non-recyclable, and hazardous waste items in a webcam stream.
 
-Our datasets used to train:
+the original dataset:
 https://universe.roboflow.com/ai-project-i3wje/waste-detection-vqkjo/model/3
 
-Colab:
-https://colab.research.google.com/drive/1dHv5QUuz2NkkgzeKBoO4DLAhLg9mOrzv?usp=sharing
-
-Live:
-https://intelligent-waste-segregation-system.streamlit.app
 
 # to use the interface 
 ## Setup
@@ -34,6 +29,7 @@ Open your web browser and navigate to the provided URL (usually http://localhost
 
 
 - **RECYCLABLE** = ["Aluminium foil", "Aluminium blister pack", "Clear plastic bottle", "Glass bottle", "Metal bottle cap", "Food Can", "Aerosol", "Drink can", "Toilet tube", "Egg carton", "Drink carton", "Corrugated carton", "Pizza box", "Paper cup", "Glass jar", "Magazine paper", "Normal paper", "Paper bag", "Scrap metal", "Pop tab"]
+
 -**NON_RECYCLABLE** = ["Battery", "Carded blister pack", "Other plastic bottle", "Plastic bottle cap", "Broken glass", "Other carton", "Meal carton", "Disposable plastic cup", "Foam cup", "Glass cup", "Other plastic cup", "Food waste", "Plastic lid", "Metal lid", "Other plastic", "Tissues", "Wrapping paper", "Plastified paper bag", "Plastic film", "Six pack rings", "Garbage bag", "Other plastic wrapper", "Single-use carrier bag", "Polypropylene bag", "Crisp packet", "Spread tub", "Tupperware", "Disposable food container", "Foam food container", "Other plastic container", "Plastic gloves", "Plastic utensils", "Rope & strings", "Shoe", "Squeezable tube", "Plastic straw", "Paper straw", "Styrofoam piece", "Unlabeled litter", "Cigarette"]
 
 ## Screenshots
