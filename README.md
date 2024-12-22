@@ -84,7 +84,8 @@ Works in tandem with the fuel cell stack for reliable power output.
 
 Heat exchanger and pump maintain the system's thermal stability.
 
-**The global representation of the system**
+**The global representation of the system:**
+
 ![470887365_1249050322823418_1920506554673619779_n (1)](https://github.com/user-attachments/assets/e2008edc-dbb2-4a55-9a9e-137792c60e49)
 
 
@@ -92,4 +93,6 @@ Heat exchanger and pump maintain the system's thermal stability.
 
 ![466067293_585842687496879_6021450026104014461_n](https://github.com/user-attachments/assets/c243afdf-907f-4ddf-aa0b-ebc3e0aedfd3)
 ![467334823_1316917022797834_8580974688384073418_n (1)](https://github.com/user-attachments/assets/40cc5edc-fafb-4165-a12e-d971be393c15)
+
+the matlab file is joined
 
