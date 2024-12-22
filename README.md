@@ -54,7 +54,7 @@ Open your web browser and navigate to the provided URL (usually http://localhost
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [YOLO Documentation](https://github.com/ultralytics/yolov5)
 
-  #### Hydrogen Fuel Cell System
+## Hydrogen Fuel Cell System
 
 The hydrogen fuel cell system is designed to efficiently generate electricity through an electrochemical reaction between hydrogen and oxygen. It features a regulation system to maintain optimal power generation and distribution to all components.
 
