@@ -13,6 +13,7 @@ The TSYP12-INSAT-ECOBOT is an intelligent waste detection robot powered by susta
 - Waste Collection Mechanism
 - Environmental Impact
 ---
+This GitHub repository contains the AI algorithm and the hydrogen fuel cell system.
 
 # Intelligent waste detection system
 This part demonstrates waste detection using a YOLOv8 (You Only Look Once) object detection model. It identifies recyclable and non-recyclable  items in a webcam stream (the interface just to demonstrate our model).
